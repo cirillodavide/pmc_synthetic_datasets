@@ -1,0 +1,157 @@
+doi,sentence
+10.1371/journal.pcbi.1008904,The full synthetic dataset is available at: https://github.com/wesleymarin/KIR_synthetic_data.
+10.1371/journal.pcbi.1008904,The synthetic KIR sequence dataset is available at https://github.com/wesleymarin/KIR_synthetic_data.
+10.3389/fnins.2018.00803,Codes can be found here: https://github.com/cclairec/Iterative_Centroid and synthetic data can be found here: https://doi.org/10.5281/zenodo.1420395.
+10.1038/srep37329,The datasets of synthetic networks can be downloaded at: http://scg.ifsc.usp.br/LLNA.
+10.1038/srep42460,"This code, together with R scripts that generate the synthetic datasets and reproduce all reported results starting from the raw microarray data, are available at the GitHub repository https://github.com/carlosproca/geneexpr-norm-paper and in the Supplementary Data File gene-expr-norm.zip."
+10.12688/f1000research.53821.2,"We provide advanced installation guides as well as further information about the implemented snpQT processes, the synthetic toy dataset and the real-world ALS dataset results in the online documentation at
+https://snpqt.readthedocs.io/en/latest/."
+10.1038/s41597-020-0434-6,"Besides a statistical analysis of commercial and residential energy datasets, the authors of14 released SHED (https://nilm.telecom-paristech.fr/shed/), a synthetic dataset with focus on commercial buildings."
+10.3390/s19214794,These synthetic images were generated under the photorealistic Unreal (https://www.unrealengine.com) game engine and also released as an open-source dataset (see Supplementary Material).
+10.3390/s20205941,The synthetic Apollo dataset (https://apollo.auto/synthetic.html) is one of the largest photo-realistic synthetic datasets for autonomous driving currently.
+10.1155/2020/8841354,The synthetic signal was generated with “Dipole-Simulator” (BESA Tool version; it can be downloaded from: http://www.besa.de/updates/tools).
+10.3390/s21051892,"In order to evaluate performance of the proposed KPKM model (equivalent to KFCM at m = 1) solved by the FAGP algorithm, we have conducted a lot of experiments on one synthetic dataset, ten UCI datasets (http://archive.ics.uci.edu/ml (accessed on 8 March 2021)) and the MNIST dataset (http://yann.lecun.com/exdb/mnist/ (accessed on 8 March 2021))."
+10.1155/2016/7386517,"Outlier records of synthetic datasets HTTP and SMTP are known in order to evaluate our methods on live deep web database https://autos.yahoo.com/, which are precision, recall, and F-measure."
+10.1016/j.mcpro.2021.100171,"The MaxQuant search results of the synthetic dataset used to evaluate Delta RT and spectral similarity were downloaded from PRIDE (https://www.ebi.ac.uk/pride/) with accession number PXD000138, which included 96 peptide libraries generated from 96 seed peptides."
+10.1016/j.mcpro.2021.100171,"For the synthetic dataset used to evaluate Delta RT and spectral similarity, search results were downloaded from PRIDE (https://www.ebi.ac.uk/pride/) with accession number PXD000138 (MaxQuant version 1.3.0.3, human IPI v3.72 supplemented with synthesized libraries)."
+10.3390/s20041176,"The raw data—i.e., bidirectional network traffic—was analyzed with a tool CICFlowMeter (http://www.netflowmeter.ca/netflowmeter.html) to produce 83 high-level statistical feature vectors.Agots: Anomaly Generator on Time Series (Agots) is an anomaly generation tool to produce completely synthetic multivariate data streams with the option to define (1) the number of values in each time series, (2) the number of time series and (3) the number of time series that should correlate."
+10.1007/s11548-019-01962-w,"Additionally, we publish the, to the best of our knowledge, first dataset of synthetic colonoscopy images with corresponding depth here: http://cmic.cs.ucl.ac.uk/ColonoscopyDepth."
+10.3390/jimaging7090169,"To generate real training dataset pairs, we used the 300W-LP dataset and synthetic data from FaceGen (https://facegen.com/(accessed on 28 August 2021))."
+10.1038/s41467-018-04368-5,The synthetic data used in this study are available from bitbucket repo: https://bitbucket.org/jerry00/scvis-dev.
+10.1371/journal.pcbi.1007406,The code used to generate synthetic microscopy data is also freely available at https://github.com/sebastianbernasek/growth.
+10.3389/frai.2021.612551,"A small Python library which can generate and sample synthetic BNs was developed, and can be found at: https://pypi.org/project/BayNet/."
+10.12688/wellcomeopenres.12441.1,"The ALSPAC dataset (project number B2506) these synthetic data are simulated from can be obtained from ALSPAC through the standard ALSPAC research proposal and data access policy
+http://www.bristol.ac.uk/alspac/researchers/access/."
+10.12688/wellcomeopenres.12441.1,"The synthetic data described in this paper are available at the University of Bristol data repository, data.bris, at
+https://doi.org/10.5523/bris.3116aupg8mfgi23pnslu8tulev
+7"
+10.1371/journal.pone.0256648,"Although our algorithm was developed for gene expression data, for assessing its effectiveness of selecting informative features with imbalanced general data, we used three additional datasets: one synthetic dataset, one cross-domain dataset (i.e., MNIST [14], which is from the computer vision field), and one AD RNA dataset from the Mount Sinai Brain Bank Array Tissue Panel Study (MSBB_ArrayTissuePanel) See link https://www.synapse.org/#!Synapse:syn3157699."
+10.1371/journal.pone.0254340,Further details about the synthetic datasets together with the code can be found on our public GitHub repository (https://github.com/group-automorphism/exam_cheating).
+10.1038/s41592-021-01103-9,"We then applied the synthetically trained model to real video data (see ‘1 - Videos/Synthetic-DLC_Performance.mp4’ at https://osf.io/h3ec5/)2 and assessed its performance by comparing the model to multiple models trained on various subsets of a manually labeled 1,280-frame project."
+10.1038/s41592-021-01103-9,"The digital mouse was created within Blender and is animation-ready providing a foundation for the generation of synthetic data of behaving mice (Supplementary Video 1, https://osf.io/h3ec5/, note: Blender v2.83+ required to illustrate full model)."
+10.1038/s41592-021-01103-9,"While the added utility (in generating additional training data for a new camera view for example) of the model may or may not be sufficient motivation for every researcher to adopt this approach, the true power of the synthetic approach will be realized if and when adopted for team science projects21 with standardized rigs (such as the IBL example; https://osf.io/h3ec5, IBL-scene_non-rendered_demo.mp4)."
+10.3389/fgene.2019.00736,Benchmarking scripts and commands used to generate synthetic data and accuracy comparisons are available at https://github.com/ncsa/Sentieon_DNASeq_Benchmarking.
+10.1016/j.patter.2022.100453,"Both VCs generated by SASC and Synthea share a common principle: the longitudinal component in terms of medical visits (called “encounters” in Synthea output) is generated patient-by-patient like a storybook in development.15 The major difference between the two is that Synthea generates a mixed population of sick versus healthy VPs, while SASC generates only VPs with a predefined ratio of outcomes (Figure 1
+).Figure 1Different workflows for data generation(A and B) Schema followed for the generation of data for (A) Synthea (from GitHub: https://synthetichealth.github.io/module-builder/#covid19/symptoms) and (B) SASC."
+10.1016/j.patter.2022.100453,(A and B) Schema followed for the generation of data for (A) Synthea (from GitHub: https://synthetichealth.github.io/module-builder/#covid19/symptoms) and (B) SASC.
+10.1016/j.patter.2022.100453,"The reference COVID-19 dataset was obtained from the Clinical Practice Research Datalink (CPRD).20 This synthetic dataset was based on real, anonymized, primary care patient data extracted from the CPRD Aurum database (https://www.cprd.com/primary-care).21 Patients were typically in primary care with symptoms of COVID-19 (confirmed/suspected) and control participants with a negative COVID-19 test result."
+10.1038/s41597-021-00989-6,A more detailed note about the dataset and a Jupyter notebook with Python script to explore the dataset are available at the dataset’s GitHub page (https://lbnl-eta.github.io/AlphaBuilding-SyntheticDataset).
+10.3389/frai.2021.613956,Synthetic data: https://doi.org/10.34688/fpv7-b321
+10.1016/j.dib.2021.107725,"Nearly 200,000 synthetic Lagrangian trajectories were transported and saved for each sub-domain.Data source locationInstitution: French National Institute for Agriculture, Food, and Environment (INRAE)City/Town/Region: RennesCountry: FranceData accessibilityRepository name: Data INRAEDirect URL to data: https://doi.org/10.15454/GLNRHKInstructions for accessing these data: Free accessRelated research articleAli Rahimi Khojasteh, Yin Yang, Dominique Heitz, and Sylvain Laizet, “Lagrangian coherent track initialization”, Physics of Fluids 33, 095113 (2021) [2]https://doi.org/10.1063/5.0060644"
+10.1111/gcb.15203,"For the purpose of this experiment, we used data from the FLUXNET2015 dataset (http://fluxnet.fluxdata.org) and, as an additional comparison, a synthetic dataset generated by the MUlti‐layer Simulator of the Interactions between a vegetation Canopy and the Atmosphere (MuSICA) process‐based model (Ogée, Brunet, Loustau, Berbigier, & Delzon, 2003, see section S4)."
+10.1371/journal.pcbi.1007671,The MATLAB files used to generate synthetic data from each of these clock models can be downloaded at https://github.com/mathiasfoo/essystemplantcircadian.
+10.1038/srep20732,The registration performance of Atlas Toolkit was directly compared with that of BrainAligner5 (http://penglab.janelia.org/proj/brainaligner/) and CMTK9 (http://www.nitrc.org/projects/cmtk) using the same synthetic dataset.
+10.1038/s41597-022-01124-9,In order to validate the income estimates in our synthetic data we compare results with the 2018 income estimates for small areas (IESA) (https://www.ons.gov.uk/employmentandlabourmarket/peopleinwork/earningsandworkinghours/datasets/smallareaincomeestimatesformiddlelayersuperoutputareasenglandandwales) for England and Wales published by ONS (no equivalent is available for Scotland).
+10.1186/s13059-021-02445-5,The Poisson modified synthetic data sets and the code to generate the simulated datasets have been deposited in Github: https://github.com/siyao-liu/MultiK [62] and Zenodo: 10.5281/zenodo.5138967 [66].
+10.1016/j.neuroimage.2018.01.003,"All the codes for mixture modeling and validation in synthetic datasets, are available at GitHub: https://github.com/FabianWalocha/Thresholding-functional-connectomes-by-means-of-Mixture-Modeling-"
+10.1371/journal.pone.0172323,"In order to make the synthetic datasets similar to a realistic situation, we assume the distribution for different types of objects that appear in a relationship to follow Zipf’s law (see details https://en.wikipedia.org/wiki/Zipf%27s_law)."
+10.1038/s41467-021-26246-3,"The protein databases downloaded from Swiss-Prot/UniProt (https://www.uniprot.org/, access date 2018-08) were used for each sample after replacing the “N” in the sequon N-X-S/T/C (X ≠ P) with “J” (as potential glycosites) in all protein sequences: (i) for the fission yeast sample, the protein database with species of S. pombe (5140 entries) was used; (ii) for the budding yeast sample, the protein database with species of S. cerevisiae (6721 entries) was used; for the human serum sample, the protein database with species of Homo sapiens (20,398 entries) was used; (iii) for the mixed organism samples, the protein databases with species of S. cerevisiae and H. sapiens were combined; (iv) for the synthetic glycopeptide sample, a protein database containing 11 entries from H. sapiens and Mus musculus corresponding to the synthetic peptide sequences was used."
+10.1371/journal.pone.0258400,The script we used for this process was implemented in python and is publicly available at: https://github.com/Aifred-Health/DPNN_Experiment/tree/master/Experiment/Synthetic_Data_Experiment.
+10.1140/epjds/s13688-021-00306-6,The synthetic mobility datasets generated and analysed in this study are available in the OpenScienceFramework (OSF) repository https://osf.io/3rzh8/.
+10.1371/journal.pone.0253214,The synthetic image and the real image datasets can be found at: https://doi.org/10.17605/OSF.IO/Y46W5.
+10.1016/j.cels.2020.11.005,"(2019)
+
+
+https://www.iedb.org/database_export_v3.php
+
+
+
+IEDB-derived multi-allelic benchmark samples
+This paper
+Table S2; https://github.com/bravib/rbm-mhc/tree/master/data/Multiallelic_Synthetic_individuals
+
+
+
+
+
+
+
+
+Software and Algorithms
+
+
+
+
+
+
+
+
+RBM-MHC
+This paper
+
+https://github.com/bravib/rbm-mhc
+
+
+
+NetMHCpan4.0
+
+Jurtz et al."
+10.1093/bioinformatics/btaa865,The synthetic datasets and programs for evaluating the sensitivity of processing the data are available at https://github.com/morisUtokyo/mTR.
+10.1093/bioinformatics/btaa865,Programs for generating the synthetic datasets and for evaluating the sensitivity of processing the data are available at https://github.com/morisUtokyo/mTR.
+10.3390/s20195492,"In this article, we propose Recurrent BIM-PoseNet (A Keras implementation can be found at https://github.com/debaditya-unimelb/RecurrentBIM-PoseNet), a deep Bayesian recurrent CNN that utilises synthetic image sequences obtained from a BIM, thereby eliminating the requirement of 3D reconstruction of the indoor spaces."
+10.3390/s20195492,Synthetic images (The synthetic and the real datasets with their corresponding ground-truth poses are available at https://melbourne.figshare.com/articles/UnimelbCorridorSynthetic_zip/10930457) are obtained by rendering from a 3D model using different texture and lighting options.
+10.1038/s41598-019-46607-9,"To evaluate large-scale coral patterns associated with long-term temperature conditions, we obtained the HadISST 1 × 1 geographic degree temperature tiles40 for the Galápagos, which provide a synthetic temperature record from 1870 to the present (from https://coastwatch.pfeg.noaa.gov)."
+10.1371/journal.pcbi.1006078,"For the clustering of the synthetic motif data we used the EdEN graph kernel with DB-SCAN, surveying over possible values for the DB-Scan parameter threshold (http://scikit-learn.org/stable/modules/generated/sklearn.cluster.DBSCAN.html), which specifies the minimal similarity for two data points to be in the same cluster."
+10.1186/s13007-018-0273-z,"The full datasets, as well as several alternative versions, are downloadable at https://figshare.com/articles/SATLC-28-09-17_zip/5450080.Table 1Real and synthetic training datasetsDatasetNumber of imagesRange of leaf countsAccessionsImage sizeScale\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$^{\mathrm{a}}$$\end{document}aBackgroundAra201212012–20Col-0Varied1:1Soil/trayAra2013-Canon1655–13Col-0/mutantsVaried1:1SoilS1100012–20N/A
+\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$256 \times 256$$\end{document}256×256
+1:1–1:2SoilS210005–13N/A
+\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$256 \times 256$$\end{document}256×256
+1:1–1:2SoilS1210005–20N/A
+\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$256 \times 256$$\end{document}256×256
+1:1–1:2Varied\documentclass[12pt]{minimal}
+				\usepackage{amsmath}
+				\usepackage{wasysym} 
+				\usepackage{amsfonts} 
+				\usepackage{amssymb} 
+				\usepackage{amsbsy}
+				\usepackage{mathrsfs}
+				\usepackage{upgreek}
+				\setlength{\oddsidemargin}{-69pt}
+				\begin{document}$$^{\mathrm{a}}$$\end{document}a Scale denotes the ratio of the plant diameter to the image size"
+10.1038/s41598-017-13930-y,"The synthetic data sets generated in this work are available from the corresponding authors’ web sites, http://www.escience.cn/people/dulei/code.html and http://www.iu.edu/ shenlab/tools/ncscca/."
+10.1093/bioinformatics/btx631,"To illustrate the output generated by countsimQC, we use two recently published R packages [the ’splat’ framework from splatter (v1.0.2) (Zappia et al., 2017) and powsim (v1.0.1) (Vieth et al., 2017)] to generate synthetic single-cell RNA-seq count matrices from an underlying, experimentally obtained count matrix [GSE48968-GPL13112 (Shalek et al., 2014)], downloaded from the conquer repository [http://imlspenticton.uzh.ch:3838/conquer/ (Soneson and Robinson, 2017)]."
+10.1093/bioinformatics/btx631,"The full report of the comparison summarized in Figure 1, as well as additional example reports for various types of real and synthetic count datasets can be accessed from https://github.com/csoneson/countsimQC."
+10.1186/1756-0500-5-275,"This synthetic data set is derived from the combined set of gene models, publically available from the Joint Genome Institute (http://genome.jgi.doe.gov/), for the fungus Laccaria bicolor and the plant Populus tremuloides (68164 total gene models)."
+10.1371/journal.pcbi.0040027,"Synthetic images of cars and planes were generated using POV-Ray, a free, high-quality ray tracing software package (http://www.povray.org)."
+10.1186/1471-2105-14-10,An implementation of our algorithm in Python together with all synthetic datasets is available at https://sourceforge.net/projects/corpusredundanc.
+10.1186/1471-2105-14-10,aA Python implementation of our algorithm as well as all synthetic datasets are available at https://sourceforge.net/projects/corpusredundanc
+10.1186/1471-2105-13-194,CLAG on the 128-dimensional synthetic dataset.A: the 128-dimensional dataset contains 1024 points and 16 clusters generated with a gaussian distribution (http://cs.joensuu.fi/sipu/datasets/DIM128.txt).
+10.1186/1471-2105-13-194,Six multi-dimensional synthetic datasets were downloaded from http://cs.joensuu.fi/sipu/datasets/.
+10.1186/1471-2105-14-S7-S2,"FusionMap http://www.omicsoft.com/fusionmap/#Home developers provide a synthetic dataset of simulated paired-end RNA-Seq reads (~60,000 pairs of reads, 75 nt, fragment size = 158 bp)."
+10.1186/1471-2164-14-S4-S2,The synthetic datasets are generated artificially and the other three real datasets can be found on http://www.ra.cs.uni-tuebingen.de/software/EDISA/downloads/index.htm.
